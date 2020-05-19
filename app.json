@@ -4,6 +4,9 @@
   "keywords": [
     "telegram"
   ],
+  "success_url": "https://t.me/bujukku_bujukku"
+  "website": "https://t.me/bujukku_bujukku"
+  "repository": "https://github.com/bujukku/renamer"
   "env": {
     "WEBHOOK": {
       "description": "Dont Change",
